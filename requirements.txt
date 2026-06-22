@@ -1,0 +1,22 @@
+# ===== Coeur scientifique =====
+numpy
+pandas
+scipy
+
+# ===== Traitement EEG =====
+mne
+
+# ===== Machine learning =====
+scikit-learn
+xgboost
+
+# ===== Visualisation =====
+matplotlib
+plotly
+
+# ===== Application web =====
+streamlit
+
+# ===== Outils & qualite =====
+jupyter
+pytest
