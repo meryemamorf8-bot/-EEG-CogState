@@ -1,6 +1,18 @@
 # 🧠 EEG-CogState
 
 > Plateforme intelligente d'analyse cognitive EEG — classification des états mentaux, IA explicable et visualisations neurophysiologiques.
+>
+> ## 📸 Aperçu
+
+### Résultat de l'analyse — état cognitif, confiance et topographie cérébrale
+
+<img width="1911" height="867" alt="Capture d&#39;écran 2026-06-27 191001" src="https://github.com/user-attachments/assets/c365d5e0-8646-4617-99a6-15efc2a32152" />
+
+### Explicabilité IA (SHAP) et tableau de bord
+
+<img width="1918" height="845" alt="Capture d&#39;écran 2026-06-27 191241" src="https://github.com/user-attachments/assets/adbb2e9b-5698-4f8a-b030-edf742aefa4a" />
+
+---
 
 EEG-CogState analyse des signaux électroencéphalographiques (EEG) et estime l'état cognitif d'un utilisateur (concentration, relaxation) à l'aide du traitement du signal et du machine learning. Le projet couvre toute la chaîne : importation → prétraitement → extraction de features → classification → visualisation → explicabilité.
 
